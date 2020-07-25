@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Programmer-Yes-green">
 </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro&nbsp;Furtado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-furtado/)](https://www.linkedin.com/in/pedro-furtado/)
+
 I am a programmer and bachelor in Information Systems.
 
 I continuously study and apply knowledge in the area of Software Engineering, especially related to Web / Mobile technologies, refactoring techniques, Design Patterns and Systems Architecture. I always combine personal organization with proactivity, in order to solve the problems and challenges that arise.

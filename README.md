@@ -7,4 +7,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedrofurtado&hide_rank=false&show_owner=true&show_icons=true&count_private=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofurtado)](https://github.com/pedrofurtado)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofurtado&hide_rank=false&show_owner=true&show_icons=true&count_private=true)](https://github.com/pedrofurtado)

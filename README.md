@@ -1,7 +1,7 @@
 ### Pedro Felipe de Azevedo Furtado (I am working in that README.md. Not complete yet.)
 
 <img src="https://komarev.com/ghpvc/?username=pedrofurtado" alt="pedrofurtado" />
-<a href="https://www.linkedin.com/in/pedro-furtado/" target="_blank"><img src="https://img.shields.io/badge/-Pedro&nbsp;Furtado-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+[![Open Source Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲

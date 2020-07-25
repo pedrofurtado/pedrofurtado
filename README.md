@@ -1,7 +1,7 @@
 ### Pedro Felipe de Azevedo Furtado (I am working in that README.md. Not complete yet.)
 
 <img src="https://komarev.com/ghpvc/?username=pedrofurtado" alt="pedrofurtado" />
-[![Open Source Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲

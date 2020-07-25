@@ -3,11 +3,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pedrofurtado" alt="pedrofurtado" />
   <img src="https://img.shields.io/badge/Programmer-Yes-green">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Pedro&nbsp;Furtado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-furtado/)](https://www.linkedin.com/in/pedro-furtado/) [![Gmail Badge](https://img.shields.io/badge/-pedro.felipe.azevedo.furtado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.felipe.azevedo.furtado@gmail.com)](mailto:pedro.felipe.azevedo.furtado@gmail.com)
 </p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro&nbsp;Furtado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-furtado/)](https://www.linkedin.com/in/pedro-furtado/)
-
-[![Gmail Badge](https://img.shields.io/badge/-pedro.felipe.azevedo.furtado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.felipe.azevedo.furtado@gmail.com)](mailto:pedro.felipe.azevedo.furtado@gmail.com)
 
 I am a programmer and bachelor in Information Systems.
 

@@ -1,4 +1,4 @@
-# Pedro Felipe de Azevedo Furtado
+# Pedro Furtado
 
 <p align="left">
   

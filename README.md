@@ -1,7 +1,7 @@
 ### Pedro Felipe de Azevedo Furtado (I am working in that README.md. Not complete yet.)
 
 <img src="https://komarev.com/ghpvc/?username=pedrofurtado" alt="pedrofurtado" />
-<img src="https://img.shields.io/badge/LinkedIn-pedro-furtado" alt="pedro-furtado">
+[![Linkedin Badge](https://img.shields.io/badge/-pedro-furtado?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-furtado/)](https://www.linkedin.com/in/pedro-furtado/)
 
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲

@@ -4,7 +4,7 @@ Hello! :wave:
 
 I am software engineer working mainly with PHP, Ruby, Javascript and Python.
 
-I am also a open source contributor, core team member of [RVM](https://github.com/rvm/rvm) and [Rails Webpacker](https://github.com/rails/webpacker).
+I am also a open source contributor, core team member of [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) and [Active Model OTP](https://github.com/heapsource/active_model_otp).
 
 <p align="left">
   

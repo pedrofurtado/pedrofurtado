@@ -4,7 +4,7 @@ Hello! :wave:
 
 I am software engineer working mainly with PHP, Ruby, Javascript and Python.
 
-I am also a open source contributor, core team member of [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) and [Active Model OTP](https://github.com/heapsource/active_model_otp).
+I am a open source contributor, core team member of [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) and [Active Model OTP](https://github.com/heapsource/active_model_otp).
 
 I am also author of some awesome open source projects: [timeliness-i18n](https://github.com/pedrofurtado/timeliness-i18n), [qrcode_pix_ruby](https://github.com/pedrofurtado/qrcode_pix_ruby), [rails-countries](https://github.com/pedrofurtado/rails-countries) and [validates-correios-cep](https://github.com/pedrofurtado/validates-correios-cep).
 

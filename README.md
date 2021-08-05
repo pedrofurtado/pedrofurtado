@@ -14,7 +14,7 @@ Olá! :wave:
 
 Atuo como programador com fluência em Ruby, PHP, Javascript e Python.
 
-Sou mantenedor de projetos open source (core team do [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) e [Active Model OTP](https://github.com/heapsource/active_model_otp))
+Sou mantenedor de projetos open source (core team do [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) e [Active Model OTP](https://github.com/heapsource/active_model_otp)).
 
 Também sou autor de alguns projetos de código aberto, tais como: [timeliness-i18n](https://github.com/pedrofurtado/timeliness-i18n), [qrcode_pix_ruby](https://github.com/pedrofurtado/qrcode_pix_ruby), [rails-countries](https://github.com/pedrofurtado/rails-countries) e [validates-correios-cep](https://github.com/pedrofurtado/validates-correios-cep).
 

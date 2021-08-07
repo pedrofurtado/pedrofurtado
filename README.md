@@ -30,6 +30,14 @@ I am also author of some awesome open source projects: [timeliness-i18n](https:/
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedrofurtado&hide_rank=false&show_owner=true&show_icons=true&count_private=true) 
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofurtado&hide_rank=false&show_owner=true&show_icons=true&count_private=true)](https://github.com/pedrofurtado)
+
+</div>
+
+<div align="center">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=pedrofurtado&hide_rank=false&show_owner=true&show_icons=true&count_private=true) 
+
+</div>

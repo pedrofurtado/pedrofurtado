@@ -16,7 +16,7 @@ Atuo como programador com fluência em Ruby, PHP, Javascript e Python.
 
 Sou mantenedor de projetos open source (core team do [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) e [Active Model OTP](https://github.com/heapsource/active_model_otp)).
 
-Também sou autor de alguns projetos de código aberto, tais como: [timeliness-i18n](https://github.com/pedrofurtado/timeliness-i18n), [qrcode_pix_ruby](https://github.com/pedrofurtado/qrcode_pix_ruby), [rails-countries](https://github.com/pedrofurtado/rails-countries) e [validates-correios-cep](https://github.com/pedrofurtado/validates-correios-cep).
+Também sou autor de alguns projetos de código aberto, tais como: [timeliness-i18n](https://github.com/pedrofurtado/timeliness-i18n), [qrcode_pix_ruby](https://github.com/pedrofurtado/qrcode_pix_ruby), [rails-countries](https://github.com/pedrofurtado/rails-countries), [validates-correios-cep](https://github.com/pedrofurtado/validates-correios-cep) e [microsoft_teams_incoming_webhook_ruby](https://github.com/pedrofurtado/microsoft_teams_incoming_webhook_ruby).
 
 ---
 
@@ -26,7 +26,7 @@ I am programmer working mainly with Ruby, PHP, Javascript and Python.
 
 I am a open source contributor, core team member of [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) and [Active Model OTP](https://github.com/heapsource/active_model_otp).
 
-I am also author of some awesome open source projects: [timeliness-i18n](https://github.com/pedrofurtado/timeliness-i18n), [qrcode_pix_ruby](https://github.com/pedrofurtado/qrcode_pix_ruby), [rails-countries](https://github.com/pedrofurtado/rails-countries) and [validates-correios-cep](https://github.com/pedrofurtado/validates-correios-cep).
+I am also author of some awesome open source projects: [timeliness-i18n](https://github.com/pedrofurtado/timeliness-i18n), [qrcode_pix_ruby](https://github.com/pedrofurtado/qrcode_pix_ruby), [rails-countries](https://github.com/pedrofurtado/rails-countries), [validates-correios-cep](https://github.com/pedrofurtado/validates-correios-cep) and [microsoft_teams_incoming_webhook_ruby](https://github.com/pedrofurtado/microsoft_teams_incoming_webhook_ruby).
 
 ---
 

@@ -37,17 +37,3 @@ Trabajo como programador con fluidez en Ruby, PHP, Javascript y Python.
 Mantengo proyectos de código abierto (equipo central de [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) y [Active Model OTP](https://github.com/heapsource/active_model_otp)).
 
 También soy autor de algunos proyectos de código abierto como: [timeliness-i18n](https://github.com/pedrofurtado/timeliness-i18n), [qrcode_pix_ruby](https://github.com/pedrofurtado/qrcode_pix_ruby), [rails-countries](https://github.com/pedrofurtado/rails-countries), [validates-correios-cep](https://github.com/pedrofurtado/validates-correios-cep) y [microsoft_teams_incoming_webhook_ruby](https://github.com/pedrofurtado/microsoft_teams_incoming_webhook_ruby).
-
----
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofurtado&hide_rank=false&show_owner=true&show_icons=true&count_private=true&theme=dark)](https://github.com/pedrofurtado)
-
-</div>
-
-<div align="center">
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedrofurtado&hide_rank=false&show_owner=true&show_icons=true&count_private=true&theme=dark) 
-
-</div>

@@ -7,12 +7,12 @@
 
 <p align="left">
 
-  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 </p>
 
 Olá! :wave:
 
-Atuo como programador com fluência em Ruby, PHP, Javascript e Python.
+Atuo como programador com fluência em Ruby, PHP, Javascript, Python e Java.
 
 Sou mantenedor de projetos open source (core team do [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) e [Active Model OTP](https://github.com/heapsource/active_model_otp)).
 
@@ -22,7 +22,7 @@ Também sou autor de alguns projetos de código aberto, tais como: [timeliness-i
 
 Hello! :wave: 
 
-I am programmer working mainly with Ruby, PHP, Javascript and Python.
+I am programmer working mainly with Ruby, PHP, Javascript, Python and Java.
 
 I am a open source contributor, core team member of [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) and [Active Model OTP](https://github.com/heapsource/active_model_otp).
 
@@ -32,7 +32,7 @@ I am also author of some awesome open source projects: [timeliness-i18n](https:/
 
 ¡Hola! :wave:
 
-Trabajo como programador con fluidez en Ruby, PHP, Javascript y Python.
+Trabajo como programador con fluidez en Ruby, PHP, Javascript, Python y Java.
 
 Mantengo proyectos de código abierto (equipo central de [RVM](https://github.com/rvm/rvm), [Rails Webpacker](https://github.com/rails/webpacker) y [Active Model OTP](https://github.com/heapsource/active_model_otp)).
 
